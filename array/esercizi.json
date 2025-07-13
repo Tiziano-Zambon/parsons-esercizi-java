@@ -1,0 +1,16 @@
+{
+  "name": "Array ",
+  "description": "Riordina le istruzioni",
+  "instructions": "}
+
+System.out.println("La terza età è: " + eta[2]);
+
+int[] eta = {20, 22, 19, 25, 21};
+
+public class EsempioArray1 {
+
+public static void main(String[] args) {
+
+}",
+  "initial": "public class EsempioArray1 {\n    public static void main(String[] args) {\n        int[] eta = {20, 22, 19, 25, 21};\n        System.out.println(\"La terza età è: \" + eta[2]);\n    }\n}"
+}
